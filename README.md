@@ -1,4 +1,4 @@
-# Educational-Organisation-Using-ServiceNow
+
 # 🎓 Educational Organisation Management System (ServiceNow)
 
 A cloud-based Educational Organisation Management System built on the **ServiceNow Platform (PaaS)** to centralize student lifecycle management including registration, admissions, and academic progress tracking.
@@ -71,7 +71,8 @@ The application follows a **3-Tier Cloud Architecture**:
 
 ### 🔢 Number Maintenance
 - Automatically generates unique IDs:SAL0001, SAL0002, SAL0003...
-- 
+
+  
 ### 🧮 Server-Side Business Rules
 - Automatically calculates:
 - Total Marks
